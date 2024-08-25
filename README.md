@@ -4,3 +4,7 @@
 王恺昕：使用mfc为程序搭建人机交互窗口；
 
 github仓库地址：
+https://github.com/wkx258/hello-world.git
+
+ps：1.最终程序输出时，考虑到观感上的简洁，我们只将电流I进行了三位小数的输出，其余量保持了原有输入状态。
+    2.附加功能（完成计算后，手动输入“print_hello”,程序会输出“hello”；输入其它代码，则显示“Function not found”）在原c++程序（project7文件）中已经实现，但是在mfc中还暂时未能展示，望老师见谅。
