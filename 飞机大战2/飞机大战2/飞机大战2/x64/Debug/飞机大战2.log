@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\陈\source\repos\飞机大战2\飞机大战2\FileName.cpp(52,27): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  飞机大战2.vcxproj -> C:\Users\陈\source\repos\飞机大战2\飞机大战2\x64\Debug\飞机大战2.exe
